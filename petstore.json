@@ -13,7 +13,7 @@
     }
   ],
   "paths": {
-    "/pets": {
+    "/petsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetsfetetsfetsfetsfetsfetsfetsfet  ": {
       "get": {
         "summary": "List all pets",
         "operationId": "listPets",
@@ -84,7 +84,8 @@
               }
             }
           }
-        }
+        },
+        "parameters": []
       }
     },
     "/pets/{petId}": {
@@ -175,5 +176,6 @@
         }
       }
     }
-  }
+  },
+  "tags": []
 }
