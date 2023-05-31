@@ -1,0 +1,14 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+        "title": "Second$Title",
+        "description": "This is description changed",
+        "version": "123477891"
+    },
+    "tags": [],
+    "paths": {},
+    "components": {
+        "schemas": {}
+    }
+    
+}
